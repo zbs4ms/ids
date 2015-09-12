@@ -14,4 +14,4 @@
 2、运行 go run ids.go <br>
 客户端：<br>
 ----
-写那么多累死宝宝了，在protocol中有thrift文件，自己根据语言生成吧。
+写那么多累死宝宝了，在protocol中有thrift文件，可根据自己需要的语言生成。（后续有时间提供各语言的demo）
